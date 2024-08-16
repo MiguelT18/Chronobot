@@ -1,0 +1,12 @@
+res://levels/level_1.tscn
+res://player/player.tscn
+res://player/bullet.tscn
+res://enemies/enemy_crab.tscn
+res://player/bullet_impact_effect.tscn
+res://player/bullet.gd
+res://player/bbullet_impact_effect.tscn
+res://player/BulletImpactEffect.gd
+res://BulletImpactEffect.gd
+res://enemies/enemy_crab.gd
+res://enemies/enemy_death_effect.gd
+res://enemies/enemy_death_effect.tscn
